@@ -1,0 +1,32 @@
+@import url(Fontes/OpenSans-VariableFont_wdth,wght.ttf);
+
+body{
+    background:  rgb(208, 243, 199);
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+    padding: 130px;
+    margin: 75px;
+    font-weight: 500;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+.TituloNoticia{
+    text-align: center;
+    color: rgb(15, 110, 6);
+    font-weight: 600;
+    font-size: 30px;
+}
+.TimeCity{
+    width: 60%;
+}
+.LogoTimes{
+    width: 5%;
+}
+.LogoTimes2{
+    width: 15%;
+}
+.LogoTimes3{
+    width: 8%;
+}
+
