@@ -1,26 +1,36 @@
 @import url(Fontes/OpenSans-VariableFont_wdth,wght.ttf);
 
 .Retangulo{
-    background-color: black;
+    background-color: rgba(4, 145, 16, 0.863);
+    display: flex;
+    width: 100%;
+    height: 150px; 
+    display: flex;
+    justify-content: space-between;
 }
+.IconesCabecalio{
+    width: 5%;
+    margin: 20px;
+}
+
+
 body{
-    background:  rgb(208, 243, 199);
+    background:  rgba(187, 185, 185, 0.836);
     font-family: "Open Sans", sans-serif;
     font-weight: 500;
     font-size: 190%;
-    color: rgb(0, 0, 0);
+    color: rgb(7, 5, 128);
     margin: 0% 15% 0% 15%;
 }
-
 .TituloNoticia{
-    color: blue;
+    color: rgb(238, 223, 9);
     font-weight: 700;
     font-size: 430%;
     margin: 5%;
     text-align: center;
 }
 .SubTituloNoticia{
-    color: black;
+    color: rgb(4, 145, 16);
     font-weight: 550;
     font-size: 280%;
     margin: 0;
@@ -86,6 +96,7 @@ h2{
 
 }
 p{
+    color: rgb(77, 75, 75);
     text-align: left;
     font-size: 190%;
 }
