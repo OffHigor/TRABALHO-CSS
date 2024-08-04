@@ -1,0 +1,9 @@
+@import url(Fontes/OpenSans-VariableFont_wdth,wght.ttf);
+
+body{
+    background-color: rgba(127, 255, 212, 0.644);
+}
+
+.Caixa{
+    border: solid black 2px;
+}
