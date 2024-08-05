@@ -1,9 +1,15 @@
 @import url(Fontes/OpenSans-VariableFont_wdth,wght.ttf);
 
 body{
-    background-color: rgba(127, 255, 212, 0.644);
+    background-image: url(Imagens/FundoPerfil.jpg);
+    width: 90%;
+    height: 850px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
 }
-
-.Caixa{
-    border: solid black 2px;
+.RetanguloInvertido{
+    background-color: white;
+    text-align: center;
+    
 }
