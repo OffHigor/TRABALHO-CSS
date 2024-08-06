@@ -111,6 +111,7 @@ h2{
 .Corinthians2{
     height: 1500px;
     width: 60%;
+    margin: 10px 0px 10px 530px;
 
 }
 p{
@@ -125,6 +126,7 @@ p{
     height: 130px; 
     display: flex;
     justify-content: space-between;
+    
 }
 .IconesCabecalioInfo2{
     width: 90%;
@@ -141,4 +143,7 @@ p{
     height: 70px;
     margin: 10px;
 }
-
+.Escalacao{
+    width: 60%;
+    margin: 0px 0px 50px 430px;
+}
